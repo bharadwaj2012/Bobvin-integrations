@@ -1,0 +1,41 @@
+352872 [http-nio-8080-exec-5] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - webcrawler BOT Created
+352873 [http-nio-8080-exec-5] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - webcrawler BOT Created
+352874 [http-nio-8080-exec-5] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - webcrawler BOT Created
+352875 [http-nio-8080-exec-5] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - webcrawler BOT Created
+352876 [http-nio-8080-exec-5] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - webcrawler BOT Created
+353878 [pool-14-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->2 Received webpage from --> https://activemq.apache.org
+353879 [pool-14-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->2 document title --> ActiveMQ
+353880 [pool-14-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->2 document matching text --> <a class="dropdown-item" href="/components/artemis/">ActiveMQ Artemis</a>
+<h4 class="card-title text-purple">ActiveMQ Artemis</h4>
+354027 [pool-16-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->4 Received webpage from --> https://kafka.apache.org
+354027 [pool-16-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->4 document title --> Apache Kafka
+354031 [pool-16-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->4 document matching text --> 
+354061 [pool-17-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->5 Received webpage from --> https://servicemix.apache.org
+354062 [pool-17-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->5 document title --> Welcome to Apache ServiceMix!
+354063 [pool-17-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->5 document matching text --> <p>legacy support for the JBI standard (deprecated after the ServiceMix 3.x series) through the Apache ServiceMix NMR that includes a rich Event, Messaging and Audit API</p>
+354105 [pool-13-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->1 Received webpage from --> https://camel.apache.org
+354106 [pool-13-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->1 document title --> Home - Apache Camel
+354107 [pool-13-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->1 document matching text --> <h2 id="camel-spring-boot">Camel Spring Boot</h2>
+<p>Apache Camel Spring Boot runs Camel on Spring Boot and provides starters for Camel components. </p>
+<a href="./camel-spring-boot/latest/">Camel Spring Boot</a>
+354167 [pool-15-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->3 Received webpage from --> https://cxf.apache.org
+354167 [pool-15-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->3 document title --> Apache CXF -- Index
+354169 [pool-15-thread-1] INFO  c.w.c.r.w.WebCrawlerAppRunnableExecutor - 
+**Web spider BOT Id -->3 document matching text --> <a shape="rect" href="download.html">Download</a>
+<a shape="rect" href="download.html">Download</a>
+<p>Downloads are available&nbsp;<a shape="rect" href="download.html">here</a>.</p>
+<p>Downloads are available&nbsp;<a shape="rect" href="download.html">here</a>.</p>
