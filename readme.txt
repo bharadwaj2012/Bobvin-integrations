@@ -1,6 +1,6 @@
-mvn springboot:run
+mvn spring-boot:run
 
-Webcrowler service exposed to - http://localhost:8080/WebCrawler
+Webcrawler service exposed endpoint - http://localhost:8080/WebCrawler
 
 Input - {"webCrawlerList":[{"url":"https://camel.apache.org","id":1,"searchText":"Camel Spring Boot"},{"url":"https://activemq.apache.org","id":2,"searchText":"ActiveMQ Artemis"}]}
 
